@@ -20,4 +20,4 @@ A medida que avance en mi formación, iré añadiendo más herramientas y conoci
 
 Busco incorporarme a un equipo donde pueda potenciar mis habilidades de programador y crecer como desarrollador Front-End, aplicando mis conocimientos de diseñor UI/UX.
 
-Puedes contactarme por <a href="https://www.linkedin.com/in/alexxburt/" target="_blank" title="LinkedIn">LinkedIn</a> o a través del <a href="mailto:alexxburt@gmail.com">email</a>
+Puedes contactarme por <a href="https://www.linkedin.com/in/alexxburt/" target="_blank" title="LinkedIn">LinkedIn</a> o a través del <a href="mailto:alexxburt@gmail.com">email</a>, y ver aquí mi <a href="https://alexxburt.framer.website/" target="_blank" title="Portfolio">portfolio</a> de diseño web.
