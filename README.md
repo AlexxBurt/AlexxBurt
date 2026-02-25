@@ -3,16 +3,18 @@ Hola! 👋
 
 <h3> Diseñador UI/UX y desarrollador Front-End en Madrid.</h3>
 
-<hr>
 
 Actualmente curso un <b>Máster en Programación Web Full Stack</b>.
 
-Aquí podrás encontrar diferentes proyectos de maquetación web realizados con:
+
+En este perfil podrás encontrar diferentes proyectos de maquetación web realizados con:
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
   <li>JavaScript</li>
 </ul>
+
+A medida que avance en mi formación, iré añadiendo más herramientas y conocimientos que obtenga, así como nuevos proyectos que realice.
 
 <hr>
 
