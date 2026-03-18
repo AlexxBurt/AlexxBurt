@@ -9,9 +9,9 @@ Actualmente curso un <b>Máster en Programación Web Full Stack</b>.
 
 En este perfil podrás encontrar diferentes proyectos de maquetación web realizados con:
 <ul>
-  <li><span style="color: #E1592F">HTML5</span></li>
-  <li><span style="color: #1977BC">CSS3</span></li>
-  <li><span style="color: #E6A633">JavaScript</span></li>
+  <li>🟧 HTML5</li>
+  <li>🟦 CSS3</li>
+  <li>🟨 JavaScript</li>
 </ul>
 
 A medida que avance en mi formación, iré añadiendo más herramientas y conocimientos que obtenga, así como nuevos proyectos que realice.
