@@ -12,6 +12,10 @@ En este perfil podrás encontrar diferentes proyectos de maquetación web realiz
   <li>🟧 HTML5</li>
   <li>🟦 CSS3</li>
   <li>🟨 JavaScript</li>
+  <li>🟦 TypeScript</li>
+  <li>⬜ React</li>
+  <li>⬛ Express</li>
+  <li>🟩 MongoDB</li>
 </ul>
 
 A medida que avance en mi formación, iré añadiendo más herramientas y conocimientos que obtenga, así como nuevos proyectos que realice.
